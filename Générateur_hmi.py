@@ -1,5 +1,5 @@
 ############################
-#  Gcode generator for 5axis 3d printer (X,Y,Z,A,C)
+# Gcode generator for 5axis 3d printer (X,Y,Z,A,C)
 # Dominique Humbert
 # 13.04.2022
 ############################

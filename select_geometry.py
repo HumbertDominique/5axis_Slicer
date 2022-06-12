@@ -70,6 +70,11 @@ def select_geometry_C(E, Enorm):
     return
 
 
+############################
+# Gcode generator for 5axis 3d printer (X,Y,Z,A,C)
+# Dominique Humbert
+# 13.04.2022
+############################
 
 def select_geometry_A(E, Enorm):
     programm_State = programmState.geometry_cylinder_A

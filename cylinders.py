@@ -1,3 +1,9 @@
+############################
+# Gcode generator for 5axis 3d printer (X,Y,Z,A,C)
+# Dominique Humbert
+# 13.04.2022
+############################
+ 
 from cmath import pi
 import math
 import tkinter as tk

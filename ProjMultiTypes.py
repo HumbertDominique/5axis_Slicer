@@ -1,3 +1,9 @@
+############################
+# Gcode generator for 5axis 3d printer (X,Y,Z,A,C)
+# Dominique Humbert
+# 13.04.2022
+############################
+
 import enum
 
 class programmState (enum.Enum):        # Meant to run the program as a state machine (not relly implemented)
