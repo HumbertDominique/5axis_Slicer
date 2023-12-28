@@ -1,4 +1,4 @@
-**This project is no Longer active**
+**This project is no longer active**
 
 # 5axis_Slicer
 5 axis semi automatic gcode generator
